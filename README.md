@@ -1,10 +1,5 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you. I'm Lana Andrade </h1>
-
-<p>Welcome to my page! 
-</br> 
-</p>
-
-## Lana Andrade - Software Engineer
+<h2 align="center"> Lana Andrade - Software Engineer <h2>
 
 <p>
   I'm Lana, I currently work as an Intern in the Software Development team at Hitachi Energy, and I'm graduating at FIAP University, with a bachelor's degree in Software Engineering.
