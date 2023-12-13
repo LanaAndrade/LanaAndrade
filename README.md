@@ -1,9 +1,12 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you. I'm Lana Andrade </h1>
 <p align="center"> <strong> Lana Andrade - Software Engineer </strong><p>
 
-<p>
-  I'm Lana, I currently work as an Intern in the Software Development team at Hitachi Energy, and I'm graduating at FIAP University, with a bachelor's degree in Software Engineering.
-</p>
+Welcome to my Github!
+- 🔭 I’m currently working at [Hitachi Energy](https://www.hitachienergy.com/br/pt) in the DevOps Team
+- 🌱 I’m currently Studying Software Engineering at FIAP University.
+- 💬 Ask me about **Front-End, Java and C#**
+- 📫 How to reach me: [Lana Andrade](https://www.linkedin.com/in/lanaoliveiraandrade/) on LinkedIn
+- ⚡ Fun fact: I love martial arts
 
 <h3>Things I code with</h3>
 <p>
