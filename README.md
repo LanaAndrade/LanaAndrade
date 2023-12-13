@@ -1,7 +1,15 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you. I'm Lana Andrade </h1>
 
+<p>Welcome to my page! 
+</br> 
+</p>
 
-<p>Welcome to my page! </br> I'm Thomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+## Lana Andrade - Software Engineer
+
+<p>
+  I'm Lana, I currently work as an Intern in the Software Development team at Hitachi Energy, and I'm graduating at FIAP University, with a bachelor's degree in Software Engineering.
+</p>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
