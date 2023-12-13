@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?text=AAAAAAAAA&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<img src="https://capsule-render.vercel.app/api?text=&animation=fadeIn&type=waving&color=gradient&height=100"/>
 
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! Nice to see you. I'm Lana </h1>
 <p align="center"> <strong> Lana Andrade - Software Engineer </strong><p>
