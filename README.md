@@ -12,6 +12,8 @@ Welcome to my Github!
 - 📫 How to reach me: [Lana Andrade](https://www.linkedin.com/in/lanaoliveiraandrade/) on LinkedIn
 - ⚡ Fun fact: I love martial arts
 
+![](https://github-readme-stats.vercel.app/api?username=lanaandrade&show_icons=true&theme=radical)
+
 <h3>Things I code with</h3>
 <p>
   <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
