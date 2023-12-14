@@ -14,7 +14,7 @@ Welcome to my Github!
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api?username=lanaandrade&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaandrade&layout=compact&theme=theme radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaandrade&layout=compact&theme=radical)
 
 <h3>Things I code with</h3>
 <p>
