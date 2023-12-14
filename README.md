@@ -13,8 +13,8 @@ Welcome to my Github!
 - ⚡ Fun fact: I love martial arts
 
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=lanaandrade&show_icons=true&theme=radical)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaandrade&layout=donut&theme=radical)](https://github.com/lanaandrade/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=lanaandrade&show_icons=true&layout=compact&theme=radical)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaandrade&layout=compact&theme=radical)](https://github.com/lanaandrade/github-readme-stats)
 
 <h3>Things I code with</h3>
 <p>
