@@ -16,7 +16,7 @@ Welcome to my Github!
 ![](https://github-readme-stats.vercel.app/api?username=lanaandrade&show_icons=true&layout=compact&theme=radical)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=lanaandrade&layout=donut&theme=radical)](https://github.com/lanaandrade/github-readme-stats)
 
-<h3>Things I code with</h3>
+### Things I code with
 <p>
   <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="angular" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
