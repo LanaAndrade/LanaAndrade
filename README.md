@@ -6,7 +6,7 @@
 <p align="center"> <strong> Lana Andrade - Software Engineer </strong><p>
 
 Welcome to my Github!
-- 🔭 I’m currently working at [Hitachi Energy](https://www.hitachienergy.com/br/pt) in the Software Development Team
+- 🔭 I’m currently working at [Hitachi](https://www.hitachienergy.com/br/pt) in the Software Development Team
 - 🌱 I’m currently studying Software Engineering at FIAP University.
 - 💬 Ask me about **Python, Java and C#**
 - 📫 How to reach me: [Lana Andrade](https://www.linkedin.com/in/lanaoliveiraandrade/) on LinkedIn
